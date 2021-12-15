@@ -51,15 +51,15 @@ display: inline-block;
 }
 #animation-tijera {
     animation-name: animacionTijera;
-    animation-duration: 10s;
+    animation-duration: 5s;
     position: relative;
 }
 
 @keyframes animacionTijera {
-    0% {left: 0px; bottom: 0px;}
-    25% {left: 0; top: 0;}
-    50% {left: 0; top: 0;}
-    75% {left: 0; top: 0;}
+    0% {left: 0px; top: 0px;}
+    25% {left: 100px; top: 0;}
+    50% {left: 100px; top: 100px;}
+    75% {left: 0; top: 100px;}
     100% {left: 0; top: 0;}
 }
 .container-games {
