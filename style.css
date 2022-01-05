@@ -1,4 +1,5 @@
 :root {
+    /*Paleta de colores*/
     --desaturated-colorful-rainbow: linear-gradient(45deg, #faeb96, #f8b49f, #d1b0fa, #a1e4f8);
     --gradient-colorful-rainbow: linear-gradient(45deg, #ffe75c, #ff9270, #b177f9, #77daf9);
     --saturated-colorful-rainbow: linear-gradient(45deg, #ffd900, #fa5f30, #8d34fa, #2dc9f8);
@@ -10,11 +11,12 @@
     --textos-negativos: #c92a2a;
     --color-background: #262A50;
     --color-background-desaturated: #313763;
-    --botones-background: #000;
-    --optional-color-one: #000;
-    --optional-color-two: #000;
-    --optional-color-three: #000;
-    --optional-color-four: #000;
+    --botones-background: #2a3cc5;
+    --optional-color-yellowtorange: linear-gradient(45deg, #fce38a, #f38181);
+    --optional-color-pinktoblue: linear-gradient(45deg, #f02fc2, #6094ea);
+    --optional-color-purplebluegreen: linear-gradient(45deg, #574bcd, #2999ad, #41e975 );
+    --optional-color-four: linear-gradient(45deg, #17ead9, #6078ea);
+    
 }
 
 
